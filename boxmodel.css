@@ -1,0 +1,22 @@
+#rosa{
+    height: 300px;
+    width: 150px;
+    background-color: #ff80aa;
+    font-size: 32px;
+    border:4px solid #9999ff ;
+    padding:40px ;
+    margin: 50px;
+    color:#990073 ;
+    text-align: center;
+}
+#verde{
+    height: 200px;
+    width: 250px;
+    background-color: #006600;
+    font-size: 40px;
+    border: 5px solid #99ff99;
+    padding: 30px;
+    margin: 60px;
+    color: #4d2600;
+
+}
